@@ -14,4 +14,3 @@ COPY Salary_model.h5 /
 
 COPY mycode.py /
 
-CMD python3 mycode.py
